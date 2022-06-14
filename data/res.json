@@ -1,6 +1,4 @@
-{
-    "message": "displaying all records",
-    "data": [
+[
         {
             "_id": "62a742582ad9ba7d70f660c5",
             "name": "mushroom fried rice",
@@ -78,5 +76,4 @@
             "image": "http://2.bp.blogspot.com/_NGvqxTgLTM8/TFCGNlqBq_I/AAAAAAAAIlY/vaXcvnjEtqY/s1600/crab+biriyani5.jpg",
             "__v": 0
         }
-    ]
-}
+]
